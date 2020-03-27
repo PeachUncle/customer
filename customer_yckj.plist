@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://sey.ahthzyy.com/res/bi/bi.ipa</string>
+					<string>http://dev.icreatesoft.com/res/customer/customer.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://sey.ahthzyy.com/res/bi/1024x1024.png</string>
+					<string>http://dev.icreatesoft.com/res/customer/1024x1024.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://sey.ahthzyy.com/res/bi/120x120.png</string>
+					<string>http://dev.icreatesoft.com/res/customer/120x120.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>org.icreatesoft.bi</string>
+				<string>org.icreatesoft.customer</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>商业智能决策分析平台</string>
+				<string>医疗客服</string>
 			</dict>
 		</dict>
 	</array>
